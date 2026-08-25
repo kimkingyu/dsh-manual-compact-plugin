@@ -1,4 +1,4 @@
-# dsh-manual-compact
+# dsh-manual-compact-plugin
 
 手动上下文压缩插件（DeepSeek Harness / DSH）。
 
@@ -16,7 +16,7 @@
 ## 安装
 
 ```bash
-dsh plugin --profile web add dsh-manual-compact
+dsh plugin --profile web add dsh-manual-compact-plugin
 ```
 
 安装后重启一次 DSH。
