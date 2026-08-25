@@ -1,0 +1,5 @@
+# dsh-manual-compact bundle patch: manual context compaction with a per-session archive.
+- insert:
+    - id: manual-compact
+      name: dsh-manual-compact
+      config: {}
