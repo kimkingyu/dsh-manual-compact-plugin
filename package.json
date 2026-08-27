@@ -1,6 +1,6 @@
 {
   "name": "dsh-manual-compact-plugin",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Manual context compaction for DeepSeek Harness: keep the latest N conversation items with stop or batch mode and a per-session compaction archive — embedded in the context meter popup when the meter panel slot exists, or a composer button otherwise.",
   "type": "module",
   "main": "lib/index.js",
